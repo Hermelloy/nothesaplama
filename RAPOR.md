@@ -4,7 +4,7 @@
 **Numara:**698
 
 ## 1. Problem Analizi
-<!-- Kullanıcı . -->
+Kullanıcı bir sınava girmiştir. Doğru ve yanlış sayısını öğrenmiştir fakat başarı durumunu bilmemektedir. Öğrenmek için programı kullanır. Program kullanıcıdan doğru ve yanlış sayılarını ister, boş soru sayısını, netini ve başarı durumunu hesaplayıp kullanıcıya bildirir.
 
 
 ## 2. Girdi - İşlem - Çıktı
