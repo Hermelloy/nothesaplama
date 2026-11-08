@@ -4,7 +4,7 @@
 **Numara:**698
 
 ## 1. Problem Analizi
-<!-- Problemi kendi cümlelerinizle yazın. -->
+<!-- Kullanıcı . -->
 
 
 ## 2. Girdi - İşlem - Çıktı
