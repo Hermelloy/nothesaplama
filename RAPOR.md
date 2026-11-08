@@ -63,7 +63,8 @@ Kullanıcı bir sınava girmiştir. Doğru ve yanlış sayısını öğrenmişti
 
 ## 6. Başarı Durumu Koşulları
 <!-- Koşulları hangi sırayla ve hangi operatörlerle yazdığınızı, nedenini açıklayın. -->
-
+Koşulların ilki girdilerin sistemin amacına uygun olup olmadığını analiz eder. girdilerin negatif olmamasını ve girdiler toplamının gereğinden fazla olmaması gerektiğini söyler. Bu koşul için < > || operatörleri kullanılır.
+Diğer koşullar ise hesaplanan net sayısının hangi başarı durumuna tekabül ettiğini kontrol eder. Bu koşul için < > >= <= && operatörleri kullanılır.
 
 ## 7. Test Sonuçları
 
