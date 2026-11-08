@@ -10,29 +10,55 @@ Kullanıcı bir sınava girmiştir. Doğru ve yanlış sayısını öğrenmişti
 ## 2. Girdi - İşlem - Çıktı
 
 **Girdiler:**
--
+- 12, 6
 
 **İşlemler:**
--
+- Başlar
+- Doğru sayısını ister
+- Doğru sayısını okur
+- Yanlış sayısını ister
+- Yanlış sayısını okur
+- Girilen sayıların programa uygun olup olmadığını kontrol eder.
+- Uygunsa doğru ile yanlış sayısını toplayıp 20`den çıkarıp boş sayısını hesaplar.
+- Yanlış sayısını dörde bölüp doğru sayısından çıkarıp neti hesaplar.
+- Netin hangi sayı aralığında olduğunu kontrol eder.
+- Netin bulunduğu sayı aralığına göre doğru sayısını, yanlış sayısını, boş sayısını, neti ve başarı durumunu çıktı verir.
+- Bitirir
 
 **Çıktılar:**
--
+- 20 soru içerisinden 12 doğru, 6 yanlış yaptınız. Boş sayınız 2. Net sayınız 10,5. Başarı durumunuz iyi.
 
 ## 3. Matematiksel Formüller
 
--
+- 12>0
+- 6>0
+- 12+6=18
+- 20-(12+6)=2=bos
+- 12-(6/4)=10.5=net
+- 10.5>10 && 10,5<15
 
 ## 4. Sözde Kod (Pseudocode)
 
-```
-1.
-2.
-3.
-```
+
+1. BAŞLA
+2. DOĞRU SAYISINI İSTE
+3. DOĞRU SAYISINI OKU
+4. YANLIŞ SAYISINI İSTE
+5. YANLIŞ SAYISINI OKU
+6. DOĞRU VE YANLIŞ SAYISININ POZİTİF OLDUĞUNU VE İKİSİNİN TOPLAMININ YİRMİYİ GEÇMEDİĞİNİ KONTROL ET
+7. DOĞRU VE YANLIŞ SAYISININ TOPLAMINI TOPLAM SORU SAYISINDAN (20) ÇIKARIP BOŞ SORU SAYISINI HESAPLA
+8. YANLIŞ SAYISINI DÖRDE BÖLÜP DOĞRU SAYISINDAN ÇIKARIP NET SAYISINI HESAPLA
+9. NET SAYISI 5`E EŞİT YADA BEŞTEN KÜÇÜKSE DOĞRU SAYISINI YANLIŞ SAYISINI BOŞ SAYISINI NETİNİ VE BAŞARI DURUMUNU GELİŞİTİRİLMELİ OLARAK ÇIKTI VER
+10. NET SAYISI BEŞTEN BÜYÜK VE ONA EŞİT YADA ONDAN KÜÇÜKSE DOĞRU SAYISINI YANLIŞ SAYISINI BOŞ SAYISINI NETİNİ VE BAŞARI DURUMUNU ORTA OLARAK ÇIKTI VER
+11. NET SAYISI ONDAN BÜYÜK VE 15E EŞİT YADA 15TEN KÜÇÜKSE DOĞRU SAYISINI YANLIŞ SAYISINI BOŞ SAYISINI NETİNİ VE BAŞARI DURUMUNU İYİ OLARAK ÇIKTI VER
+12. NET SAYISI 15TEN BÜYÜK VE 20YE EŞİT YADA 20DEN KÜÇÜKSE DOĞRU SAYISINI YANLIŞ SAYISINI BOŞ SAYISINI NETİNİ VE BAŞARI DURUMUNU ÇOK İYİ OLARAK ÇIKTI VER
+13. BİTİR  
+
 
 ## 5. Akış Şeması
 
-![Akış Şeması](docs/akis-semasi.png)
+![Akış Şeması](<img width="1163" height="746" alt="akis" src="https://github.com/user-attachments/assets/a17fba9c-901f-43af-b93a-693c054e2310" />
+)
 
 ## 6. Başarı Durumu Koşulları
 <!-- Koşulları hangi sırayla ve hangi operatörlerle yazdığınızı, nedenini açıklayın. -->
