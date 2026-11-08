@@ -1,7 +1,7 @@
 # Rapor
 
-**Ad Soyad:**
-**Numara:**
+**Ad Soyad:**Bilgekağan Okuducu
+**Numara:**698
 
 ## 1. Problem Analizi
 <!-- Problemi kendi cümlelerinizle yazın. -->
