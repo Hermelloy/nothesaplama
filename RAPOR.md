@@ -63,19 +63,19 @@ Kullanıcı bir sınava girmiştir. Doğru ve yanlış sayısını öğrenmişti
 
 ## 6. Başarı Durumu Koşulları
 <!-- Koşulları hangi sırayla ve hangi operatörlerle yazdığınızı, nedenini açıklayın. -->
-- Koşulların ilki girdilerin sistemin amacına uygun olup olmadığını analiz eder. girdilerin negatif olmamasını ve girdiler toplamının gereğinden fazla olmaması gerektiğini söyler. Bu koşul için < > || operatörleri kullanılır.
+- Koşulların ilki girdilerin sistemin amacına uygun olup olmadığını analiz eder. girdilerin negatif olmamasını ve girdiler toplamının gereğinden fazla olmaması gerektiğini söyler. Bu koşul için < > && operatörleri kullanılır.
 - Diğer koşullar ise hesaplanan net sayısının hangi başarı durumuna tekabül ettiğini kontrol eder. Bu koşul için < > >= <= && operatörleri kullanılır.
 
 ## 7. Test Sonuçları
 
 | Doğru | Yanlış | Beklenen | Programın sonucu | Doğru mu? |
 |---|---|---|---|---|
-| 20 | 0 | Net 20, Çok iyi | | |
-| 15 | 4 | Net 14, İyi | | |
-| 10 | 8 | Net 8, Orta | | |
-| 5 | 0 | Net 5, Geliştirilmeli | | |
+| 20 | 0 | Net 20, Çok iyi | Net 20, Çok iyi | Evet |
+| 15 | 4 | Net 14, İyi | Net 14, İyi | Evet |
+| 10 | 8 | Net 8, Orta | Net 8, Orta | Evet |
+| 5 | 0 | Net 5, Geliştirilmeli | Net 5, Geliştirilmeli | Evet |
 | 0 | 20 | Net -5, Geliştirilmeli | | |
-| 10 | 10 | Net 7,5, Orta | | |
-| 15 | 10 | Geçersiz giriş | | |
-| 12 | 9 | Geçersiz giriş | | |
-| -1 | 5 | Geçersiz giriş | | |
+| 10 | 10 | Net 7,5, Orta | Net 7.5, Orta | Evet |
+| 15 | 10 | Geçersiz giriş | Geçersiz giriş | Evet |
+| 12 | 9 | Geçersiz giriş | Geçersiz giriş | Evet |
+| -1 | 5 | Geçersiz giriş | Geçersiz giriş | Evet |
