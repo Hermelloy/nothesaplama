@@ -57,7 +57,8 @@ Kullanıcı bir sınava girmiştir. Doğru ve yanlış sayısını öğrenmişti
 
 ## 5. Akış Şeması
 
-![Akış Şeması](<img width="1163" height="746" alt="akis" src="https://github.com/user-attachments/assets/a17fba9c-901f-43af-b93a-693c054e2310" />
+![Akış Şeması](<img width="1163" height="746" alt="akis" src="https://github.com/user-attachments/assets/9cf5eeeb-35b5-4f2f-becc-aa5d69eed0f5" />
+
 )
 
 ## 6. Başarı Durumu Koşulları
