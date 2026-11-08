@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         float bos;
         float net;
         // TODO: 1. Kullanıcıdan doğru ve yanlış sayısını alın
