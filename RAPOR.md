@@ -58,7 +58,8 @@ Kullanıcı bir sınava girmiştir. Doğru ve yanlış sayısını öğrenmişti
 
 ## 5. Akış Şeması
 
-![Akış Şeması](<img width="1163" height="746" alt="akis" src="https://github.com/user-attachments/assets/9cf5eeeb-35b5-4f2f-becc-aa5d69eed0f5" />
+![Akış Şeması](<img width="1428" height="834" alt="ethoakis" src="https://github.com/user-attachments/assets/4e3f2246-17ea-41ce-8c94-e3e43aff97a6" />
+
 
 )
 
